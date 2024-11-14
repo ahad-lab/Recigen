@@ -10,7 +10,7 @@ header {
   background-color: #fff23a;
   color: black;
   height: 270px;
-  width: 100%;
+  width: 1920px;
 }
 header nav {
   height: 120px;
@@ -102,7 +102,7 @@ main {
   background-color: #fff23a;
   color: black;
   min-height: 781px;
-  width: 100%; /* Make the main section responsive */
+  width: 1920px; /* Make the main section responsive */
   border-bottom-left-radius: 100px;
   border-bottom-right-radius: 100px;
 
